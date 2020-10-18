@@ -85,10 +85,10 @@ defaults:
       layout: episode
 
 # Files and directories that are not to be copied.
-exclude:
-  - Makefile
-  - bin/
-  - .Rproj.user/
+#exclude:
+#  - Makefile
+#  - bin/
+#  - .Rproj.user/
 
 # Turn on built-in syntax highlighting.
 highlighter: rouge
