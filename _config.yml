@@ -37,6 +37,9 @@ collections:
   episodes:
     output: true
     permalink: /:path/index.html
+  extras:
+    output: true
+    permalink: /:path/index.html
   locale:
     output: true
     permalink: /:path/index.html
@@ -49,6 +52,12 @@ defaults:
   - scope:
       path: ""
       type: episodes
+    values:
+      root: ..
+      layout: episode
+  - scope:
+      path: ""
+      type: extras
     values:
       root: ..
       layout: episode
