@@ -63,6 +63,8 @@ defaults:
 exclude:
   - Makefile
   - bin/
+  - data/
+  - data-shell/
   - fig/
   - filesystem/
 #  - .Rproj.user/
