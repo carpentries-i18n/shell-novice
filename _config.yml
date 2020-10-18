@@ -60,7 +60,7 @@ defaults:
       type: extras
     values:
       root: ..
-      layout: episode
+      layout: page
   - scope:
       path: ""
       type: locale
