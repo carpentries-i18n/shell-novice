@@ -1,7 +1,7 @@
 ---
 layout: lesson
-root: .  # Is the only page that doesn't follow the pattern /:path/index.html
-permalink: index.html
+root: /  # Is the only page that doesn't follow the pattern /:path/index.html
+permalink: /index.html
 ---
 
 The Unix shell has been around longer than most of its users have been alive.
