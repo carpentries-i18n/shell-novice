@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Instructor Notes"
+root: ..
 permalink: /guide/
 ---
 *   Why do we learn to use the shell?
