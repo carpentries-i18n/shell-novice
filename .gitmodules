@@ -1,0 +1,6 @@
+[submodule "_locale/ja"]
+	path = _locale/ja
+	url = https://github.com/swcarpentry-ja/shell-novice-ja.git
+[submodule "_locale/es"]
+	path = _locale/es
+	url = https://github.com/swcarpentry-ja/shell-novice-es.git

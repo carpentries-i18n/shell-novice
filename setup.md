@@ -2,6 +2,7 @@
 layout: page
 title: Setup
 root: .
+permalink: /setup/
 ---
 
 You need to download some files to follow this lesson:
